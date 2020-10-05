@@ -1,0 +1,3 @@
+<?php 
+  echo "slama jamma";
+?>
