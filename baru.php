@@ -1,4 +1,4 @@
 <?php  
-	echo "saber";
-	echo "Ini lothar";
+	echo "Echo sabre";
+	echo "Good for sven";
 ?>
